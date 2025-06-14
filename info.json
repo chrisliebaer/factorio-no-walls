@@ -1,0 +1,9 @@
+{
+  "name": "no-walls2",
+  "version": "1.0.0",
+  "title": "No Walls",
+  "author": "Chrisliebaer",
+  "factorio_version": "2.0",
+  "description": "Disables wall placement while maintaining compatibility with other mods. Walls are prevented from being placed through placement rules and automatic removal. Crafting and deconstruction of walls is still allowed.",
+  "dependencies": ["base >= 2.0.0"]
+}
